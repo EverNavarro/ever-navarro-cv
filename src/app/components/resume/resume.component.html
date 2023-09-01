@@ -1,0 +1,12 @@
+<div class="resume">
+  <section class="resume__left">
+    <app-avatar [avatarUrl]="this.resume?.avatar"></app-avatar>
+    <app-about-me [about]="this.resume?.basics"></app-about-me>
+    <app-skills [skills]="this.resume?.skills"></app-skills>
+  </section>
+  <section class="resume__right">
+    <app-basics [basics]="this.resume?.basics"></app-basics>
+    <app-experience [experience]="this.resume?.experience"></app-experience>
+    <app-education></app-education>
+  </section>
+</div>

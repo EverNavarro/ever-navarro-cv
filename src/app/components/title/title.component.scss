@@ -1,0 +1,11 @@
+.title {
+  &__header{
+    text-transform: uppercase;
+    color: burlywood;
+    font-size: large;
+  }
+  &__default{
+    color: white;
+    font-size: medium;
+  }
+}

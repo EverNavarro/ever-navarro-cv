@@ -1,0 +1,93 @@
+{
+  "avatar": "https://elcomercio.pe/resizer/4tmsOJ9gUkw8vrNg2fwOuLfEheI=/1200x1200/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/E3JHPWIH7JC6XL4TVEDCKS56QE.jpg",
+  "basics": {
+    "name": "Ever",
+    "lastname": "Navarro",
+    "picture": "",
+    "email": "ever.navarro@globant.com",
+    "phone": "52 55555-55555",
+    "degree": "",
+    "website": "www.website.com",
+    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+    "location": {
+      "address": "Calle sn No",
+      "postalCode": "05312",
+      "city": "Cuajimalpa de Morelos",
+      "state": "CDMX"
+    },
+    "socialNetworks": [
+      {
+        "network": "Linkedin",
+        "username": "Ever Navarro",
+        "url": "www.linkedin.com"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Globant",
+      "position": "Web UI",
+      "website": "www.globant.com"
+    },
+    {
+      "company": "Google",
+      "position": "Web UI",
+      "website": "www.google.com"
+    },
+    {
+      "company": "Disney",
+      "position": "Web UI",
+      "website": "www.disney.com"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela 1",
+      "fecha": "2021-2023"
+    },
+    {
+      "institution": "Escuela 2",
+      "fecha": "2021-2023"
+    },
+    {
+      "institution": "Escuela 3",
+      "fecha": "2021-2023"
+    },
+    {
+      "institution": "Escuela 4",
+      "fecha": "2021-2023"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": ""
+    },
+    {
+      "name": "Angular",
+      "level": ""
+    },
+    {
+      "name": "React",
+      "level": ""
+    },
+    {
+      "name": "Vue",
+      "level": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    }
+  ],
+  "interests": [
+    {
+      "name": "A category of interests (e.g. 'Sports')",
+      "keywords": [
+        "Keywords under this category (e.g. 'Cricket', 'Football', 'Golf')"
+      ]
+    }
+  ]
+}
