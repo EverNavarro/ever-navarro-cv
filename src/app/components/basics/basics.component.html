@@ -1,7 +1,9 @@
 <p>basics works!</p>
-<app-title>
-  {{basics.name}}
-</app-title>
-<app-title>
-  {{basics.lastname}}
-</app-title>
+<div *ngIf="basics">
+  <app-title>
+    {{basics.name}}
+  </app-title>
+  <app-title>
+    {{basics.lastname}}
+  </app-title>
+</div>

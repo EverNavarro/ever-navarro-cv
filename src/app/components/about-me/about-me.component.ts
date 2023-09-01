@@ -7,5 +7,5 @@ import { Component, Input } from '@angular/core';
 })
 export class AboutMeComponent {
   @Input()
-  about: any;
+  about!: any;
 }

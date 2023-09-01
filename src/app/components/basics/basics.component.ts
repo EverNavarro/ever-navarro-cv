@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import { IBasics } from 'src/app/models/resume/interface';
 
 @Component({
   selector: 'app-basics',
@@ -7,6 +8,10 @@ import { Component, Input } from '@angular/core';
 })
 export class BasicsComponent {
   @Input()
-  basics!: any;
+  basics!: IBasics;
+
+  constructor() {
+    this.basics.correo = 'Juan';
+  }
 
 }

@@ -3,12 +3,9 @@
   "basics": {
     "name": "Ever",
     "lastname": "Navarro",
-    "picture": "",
     "email": "ever.navarro@globant.com",
     "phone": "52 55555-55555",
-    "degree": "",
     "website": "www.website.com",
-    "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
     "location": {
       "address": "Calle sn No",
       "postalCode": "05312",
