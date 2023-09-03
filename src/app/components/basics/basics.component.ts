@@ -11,7 +11,6 @@ export class BasicsComponent {
   basics!: IBasics;
 
   constructor() {
-    this.basics.correo = 'Juan';
   }
 
 }
